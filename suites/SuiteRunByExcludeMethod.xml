@@ -5,7 +5,7 @@
         <classes>
             <class name="com.anhtester.firstpackage.FirstClass">
                 <methods>
-                    <exclude name="fourthTest"/>
+                    <exclude name="TC_04_fourthTest"/>
                 </methods>
             </class>
         </classes>

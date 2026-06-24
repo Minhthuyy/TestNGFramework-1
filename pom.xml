@@ -47,10 +47,10 @@
                 <version>3.5.5</version>
                 <configuration>
                     <suiteXmlFiles>
-<!--                        <suiteXmlFile>suites/SuiteAll.xml</suiteXmlFile>-->
-                        <suiteXmlFile>suites/SuiteRunByGroup.xml</suiteXmlFile>
-                        <suiteXmlFile>suites/SuiteRunByMethod.xml</suiteXmlFile>
-                        <suiteXmlFile>suites/SuiteRunByPackage.xml</suiteXmlFile>
+                        <suiteXmlFile>suites/SuiteAll.xml</suiteXmlFile>
+<!--                        <suiteXmlFile>suites/SuiteRunByGroup.xml</suiteXmlFile>-->
+<!--                        <suiteXmlFile>suites/SuiteRunByMethod.xml</suiteXmlFile>-->
+<!--                        <suiteXmlFile>suites/SuiteRunByPackage.xml</suiteXmlFile>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
